@@ -3,6 +3,8 @@ Different data analysis and machine learning methods written in python.
 
 This repository includes files across various assignments / projects within the jupyter lab environment and written in python. 
 
+Any csv, excel or txt files that are read into these scripts can be found in the Datasets repository.
+
 These files are different scripts that display experience with differnt data analysis and machine learning techniques with various datasets, in different forms.
 There are different exploration methods used, as well as supervised and unsupervised machine learning methods being employed simultaneously. There are also files that inlclude the connection and use of "big data" within a mySQL server with various queries being written. 
 
